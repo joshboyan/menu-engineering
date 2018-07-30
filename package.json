@@ -1,0 +1,24 @@
+{
+  "name": "menu-engineering",
+  "version": "1.0.0",
+  "description": "App for costing menus and making profitable menu decisons",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshboyan/menu-engineering.git"
+  },
+  "author": "Josh Boyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshboyan/menu-engineering/issues"
+  },
+  "homepage": "https://github.com/joshboyan/menu-engineering#readme"
+}
